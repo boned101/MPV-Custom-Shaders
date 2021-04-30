@@ -15,4 +15,5 @@ You may find these shaders individually at :
 Now you will need to change/add the following line to your MPV's input.conf : 
 CTRL+(number) no-osd change-list glsl-shaders set "~/shaders/SSimSuperRes.glsl;~/shaders/KrigBilateral.glsl;~/shaders/adaptive-sharpen.glsl"; show-text "SSimSuperRes+KrigBilateral+AdaptiveSharpen"
 
-alternatively i have included my input.conf file for use, if necessary.
+alternatively i have included my input.conf file for use, if necessary.  You cna put these in the directory C:\Users\(USERNAME)\AppData\Roaming\mpv  on 
+Windows 10. For Linux users you can find it elsewhere,it shouldn't be a problem once you look up MPV's main archive on :https://mpv.io/manual/
